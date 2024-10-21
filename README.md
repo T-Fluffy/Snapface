@@ -1,4 +1,5 @@
 # Snapface
+Following the course of OpenClassroom " Complétez vos connaissances sur Angular" under the link : https://openclassrooms.com/fr/courses/7471271-completez-vos-connaissances-sur-angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
 
